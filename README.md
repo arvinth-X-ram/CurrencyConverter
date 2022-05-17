@@ -34,6 +34,11 @@ The application currently supports back and forth conversions between various co
 
 https://user-images.githubusercontent.com/98167133/168857338-9d879ec1-a37f-4020-a884-6c2cd1604ff1.mp4
 
+* Document 
+
+https://github.com/arvinth-X-ram/Final-Project-CurrencyConverter/blob/master/assets/Projectdoc.pdf
+
+
 ---
 
 ## Authors
