@@ -28,7 +28,9 @@ The application currently supports back and froth conversions between various co
 
 * Demo Video
 
-![Screenshotvid](https://github.com/arvinth-X-ram/Final-Project-CurrencyConverter/blob/main/assets/Screenshotvid.mp4)
+https://user-images.githubusercontent.com/98167133/168857338-9d879ec1-a37f-4020-a884-6c2cd1604ff1.mp4
+
+
 
 ---
 
