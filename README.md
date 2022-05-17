@@ -26,11 +26,13 @@ The application currently supports back and froth conversions between various co
 
 ![Screenshot](https://user-images.githubusercontent.com/98167133/168850010-9da8ecc9-19d6-46a6-92d4-35d8af48be65.jpg)
 
+* Choosing Currency
+
+![Screenshot 2022-05-17 225730](https://user-images.githubusercontent.com/98167133/168874872-d6d5d7e4-0cce-473c-821d-e6788b996b07.png)
+
 * Demo Video
 
 https://user-images.githubusercontent.com/98167133/168857338-9d879ec1-a37f-4020-a884-6c2cd1604ff1.mp4
-
-
 
 ---
 
