@@ -24,7 +24,7 @@ The application currently supports back and froth conversions between various co
 
 * Overview 
 
-![Screenshot](https://user-images.githubusercontent.com/98167133/168850010-9da8ecc9-19d6-46a6-92d4-35d8af48be65.jpg)
+![Screenshot 2022-05-17 230211](https://user-images.githubusercontent.com/98167133/168875235-d9e8e469-deaa-4258-b490-00355cd1fd48.png)
 
 * Choosing Currency
 
