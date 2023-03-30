@@ -4,8 +4,7 @@
 
 Arvinth Ram      20MIS1085
 Samba Siva Sai D 20MIS1189
-
-This is our final project submission for Android Club Assignment made in react native. 
+ 
 <br>
 Our Application is a real-time currency converter that uses the conversion factor values from custom API and updates the currency values in real-time.
 The application currently supports back and forth conversions between various conversion systems including but not limited to USD, INR, JPN, GBP etc.
